@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "obit",
+			"path": "."
+		},
+		{
+			"name": "bilder",
+			"path": "../../../Visual studio code projekt/Öva functions m.m./bilder"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bilder",
+		"liveServer.settings.port": 5501
+	}
+}
